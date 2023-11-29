@@ -32,12 +32,12 @@ DATA SUBJECT is any living individual who is the subject of Personal Data.
 
 THE USER is the individual using our Service. The User corresponds to the Data Subject, who is the subject of Personal Data.\*
 
-3. Information Collection and Use
-   We collect several different types of information for various purposes to provide and improve our Service to you.
+**Information Collection and Use**
+\*We collect several different types of information for various purposes to provide and improve our Service to you.\*
 
-4. Types of Data Collected
-   Personal Data
-   While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally identifiable information may include, but is not limited to:
+**Types of Data Collected**
+\*Personal Data
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally identifiable information may include, but is not limited to:
 
 Email address
 First name and last name
@@ -84,24 +84,23 @@ to carry out our obligations and enforce our rights arising from any contracts e
 to provide you with notices about your account and/or subscription, including expiration and renewal notices, email-instructions, etc.;
 to provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information;
 in any other way we may describe when you provide the information;
-for any other purpose with your consent.
+for any other purpose with your consent.\*
 
-6. Retention of Data
-   We will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+**Retention of Data**
+\*We will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
 
-We will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
-
-7. Transfer of Data
-   Your information, including Personal Data, may be transferred to – and maintained on – computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ from those of your jurisdiction.
+We will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.\*
+**Transfer of Data**
+\*Your information, including Personal Data, may be transferred to – and maintained on – computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ from those of your jurisdiction.
 
 If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to United States and process it there.
 
 Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-QAGPT LLC. will take all the steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+QAGPT LLC. will take all the steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.\*
 
-8. Disclosure of Data
-   We may disclose personal information that we collect, or you provide:
+**Disclosure of Data**
+We may disclose personal information that we collect, or you provide:
 
 Disclosure for Law Enforcement.
 Under certain circumstances, we may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities.
