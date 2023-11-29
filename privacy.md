@@ -1,21 +1,22 @@
-LEGAL
+# LEGAL
 
-1. Privacy Policy for QAGPT LLC
+## Privacy Policy for QAGPT LLC
 
-Effective Date: Dec 02 2023
+## Effective Date: Dec 02 2023
 
-Welcome to QAGPT LLC ("QAGPT," "we," "us," or "our"). This Privacy Policy outlines how we collect, use, disclose, and protect your personal information when you use our website and services.
+**Introduction**
+\*Welcome to QAGPT LLC ("QAGPT," "we," "us," or "our"). This Privacy Policy outlines how we collect, use, disclose, and protect your personal information when you use our website and services.
 
-QAGPT, LLC. (“us”, “we”, or “our”) operates https://qagpt.co (hereinafter referred to as “Service”).
+QAGPT, LLC. (“us”, “we”, or “our”) operates <https://qagpt.co> (hereinafter referred to as “Service”).
 
-Our Privacy Policy governs your visit to https://qagpt.co, and explains how we collect, safeguard and disclose information that results from your use of our Service.
+Our Privacy Policy governs your visit to <https://qagpt.co>, and explains how we collect, safeguard and disclose information that results from your use of our Service.
 
 We use your data to provide and improve Service. By using Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
-Our Terms and Conditions (“Terms”) govern all use of our Service and together with the Privacy Policy constitutes your agreement with us (“agreement”).
+Our Terms and Conditions (“Terms”) govern all use of our Service and together with the Privacy Policy constitutes your agreement with us (“agreement”).\*
 
-2. Definitions
-   SERVICE means the https://qagpt.co website operated by QAGPT, LLC.
+**Definitions**
+\*SERVICE means the <https://qagpt.co> website operated by QAGPT, LLC.
 
 PERSONAL DATA means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
 
@@ -29,7 +30,7 @@ DATA PROCESSORS (OR SERVICE PROVIDERS) means any natural or legal person who pro
 
 DATA SUBJECT is any living individual who is the subject of Personal Data.
 
-THE USER is the individual using our Service. The User corresponds to the Data Subject, who is the subject of Personal Data.
+THE USER is the individual using our Service. The User corresponds to the Data Subject, who is the subject of Personal Data.\*
 
 3. Information Collection and Use
    We collect several different types of information for various purposes to provide and improve our Service to you.
@@ -116,11 +117,11 @@ for any other purpose disclosed by us when you provide the information; 9. Secur
 The security of your data is important to us but remember that no method of transmission over the Internet or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
 
 10. Your Data Protection Rights Under General Data Protection Regulation (GDPR)
-    If you are a resident of the European Union (EU) and European Economic Area (EEA), you have certain data protection rights, covered by GDPR. – See more at https://eur-lex.europa.eu/eli/reg/2016/679/oj
+    If you are a resident of the European Union (EU) and European Economic Area (EEA), you have certain data protection rights, covered by GDPR. – See more at <https://eur-lex.europa.eu/eli/reg/2016/679/oj>
 
 We aim to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
 
-If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please email us at qagptdev@gmail.com.
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please email us at <qagptdev@gmail.com>.
 
 In certain circumstances, you have the following data protection rights:
 
@@ -135,14 +136,14 @@ Please note that we may ask you to verify your identity before responding to suc
 You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).
 
 11. Your Data Protection Rights under the California Privacy Protection Act (CalOPPA)
-    CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivable the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: https://consumercal.org/about-cfc/cfc-education-foundation/california-online-privacy-protection-act-caloppa-3/
+    CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivable the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: <https://consumercal.org/about-cfc/cfc-education-foundation/california-online-privacy-protection-act-caloppa-3/>
 
 According to CalOPPA we agree to the following:
 
 users can visit our site anonymously;
 our Privacy Policy link includes the word “Privacy”, and can easily be found on the page specified above on the home page of our website;
 users will be notified of any privacy policy changes on our Privacy Policy Page;
-users are able to change their personal information by emailing us at qagptdev@gmail.com.
+users are able to change their personal information by emailing us at <qagptdev@gmail.com>.
 Our Policy on “Do Not Track” Signals:
 
 We honor Do Not Track signals and do not track, plant cookies, or use advertising when a Do Not Track browser mechanism is in place. Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
@@ -173,7 +174,7 @@ Please note, if you ask us to delete or stop selling your data, it may impact yo
 
 To exercise your California data protection rights described above, please send your request(s) by one of the following means:
 
-By email: qagptdev@gmail.com
+By email: <qagptdev@gmail.com>
 
 Your data protection rights, described above, are covered by the CCPA, short for the California Consumer Privacy Act. To find out more, visit the official California Legislative Information website. The CCPA took effect on 01/01/2020.
 
@@ -186,7 +187,7 @@ These third parties have access to your Personal Data only to perform these task
     We may use third-party Service Providers to monitor and analyze the use of our Service.
 
 Vercel Analytics
-We also encourage you to review the Vercel's policy for safeguarding your data: https://vercel.com/docs/analytics/privacy-policy
+We also encourage you to review the Vercel's policy for safeguarding your data: <https://vercel.com/docs/analytics/privacy-policy>
 
 15. CI/CD tools
     We may use third-party Service Providers to automate the development process of our Service.
@@ -196,7 +197,7 @@ GitHub is provided by GitHub, Inc.
 
 GitHub is a development platform to host and review code, manage projects, and build software.
 
-For more information on what data GitHub collects for what purpose and how the protection of the data is ensured, please visit GitHub Privacy Policy page:https://help.github.com/en/articles/github-privacy-statement.
+For more information on what data GitHub collects for what purpose and how the protection of the data is ensured, please visit GitHub Privacy Policy page:<https://help.github.com/en/articles/github-privacy-statement>.
 
 16. Behavioral Remarketing
     QAGPT, LLC. uses remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimize and serve ads based on your past visits to our Service.
@@ -204,18 +205,18 @@ For more information on what data GitHub collects for what purpose and how the p
 Google Ads (AdWords)
 Google Ads (AdWords) remarketing service is provided by Google Inc.
 
-You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: http://www.google.com/settings/ads
+You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: <http://www.google.com/settings/ads>
 
-Google also recommends installing the Google Analytics Opt-out Browser Add-on – https://tools.google.com/dlpage/gaoptout – for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
+Google also recommends installing the Google Analytics Opt-out Browser Add-on – <https://tools.google.com/dlpage/gaoptout> – for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
 
-For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: https://policies.google.com/privacy?hl=en
+For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: <https://policies.google.com/privacy?hl=en>
 
 Twitter
 Twitter remarketing service is provided by Twitter Inc.
 
-You can opt-out from Twitter’s interest-based ads by following their instructions: https://support.twitter.com/articles/20170405
+You can opt-out from Twitter’s interest-based ads by following their instructions: <https://support.twitter.com/articles/20170405>
 
-You can learn more about the privacy practices and policies of Twitter by visiting their Privacy Policy page: https://twitter.com/privacy
+You can learn more about the privacy practices and policies of Twitter by visiting their Privacy Policy page: <https://twitter.com/privacy>
 
 17. Payments
     We may provide paid products and/or services within Service. In that case, we use third-party services for payment processing (e.g. payment processors).
@@ -225,13 +226,13 @@ We will not store or collect your payment card details. That information is prov
 The payment processors we work with are:
 
 Stripe:
-Their Privacy Policy can be viewed at: https://stripe.com/us/privacy
+Their Privacy Policy can be viewed at: <https://stripe.com/us/privacy>
 
 OpenAI:
-Their Privacy Policy can be viewed at: https://openai.com/policies/privacy-policy
+Their Privacy Policy can be viewed at: <https://openai.com/policies/privacy-policy>
 
 MongoDB:
-Their Privacy Policy can be viewed at: https://www.mongodb.com/legal/privacy#:~:text=We%20act%20as%20a%20data,upload%20to%20our%20cloud%20services.
+Their Privacy Policy can be viewed at: <https://www.mongodb.com/legal/privacy#:~:text=We%20act%20as%20a%20data,upload%20to%20our%20cloud%20services>.
 
 18. Links to Other Sites
     Our Service may contain links to other sites that are not operated by us. If you click a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
@@ -253,4 +254,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 21. Contact Us
     If you have any questions about this Privacy Policy, please contact us:
 
-By email: qagptdev@gmail.com.
+By email: <qagptdev@gmail.com>.
